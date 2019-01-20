@@ -6,7 +6,7 @@
 //
 
 <script type="text/javascript" src="/scripts/md5.js"></script>
-<script type="text/javascript" src="/scripts/sha1.js"></script>
+//<script type="text/javascript" src="/scripts/sha1.js"></script>
 <script type="text/javascript" src="/scripts/sha3.js"></script>
 <script type="text/javascript" src="/scripts/sha256.js"></script>
 <script type="text/javascript" src="/scripts/sha512.js"></script>
