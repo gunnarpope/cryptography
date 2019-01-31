@@ -1,12 +1,17 @@
-# cryptography
-A collection of cryptographic protocols, examples, and best practices.
+# Cryptography for Code Rebels
+A collection of cryptographic protocols, examples, and best practices. Use these methods to help secure your work, writing, code, ideas, and collaborations from those who are not invited to the party.
+
+author: @gunnarpope
+
+
+Each folder contains cryptographic methods for each language or protocol listed.
 
 ### Diffie-Hellman Key Exchange
 Achieve perfect forward secrecy using the ephemeral Diffie-Hellman Key exchange.
     $ node javascript/DiffieHellman.js
 
 ### SSH Key Generation
-Generate a key pair to establish secure connections using SSH protocol.
+Look at folder `ssh/` for instructions on how to setup SSH keys with a remote server to secure data in transit. Here's a quick example of how to generate a key pair to establish secure connections using SSH protocol.
 
     ~/repos/cryptography $ ssh-keygen -t rsa
     Generating public/private rsa key pair.
